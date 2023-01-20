@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Ruby on Rails
+# GitHub Codespaces  Ruby on Rails
 
 Welcome to your shiny new Codespace running Rails! We've got everything fired up and running for you to explore Rails.
 
